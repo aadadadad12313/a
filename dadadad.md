@@ -23,3 +23,10 @@ c
 c
 c
 c
+
+denemeler 4
+
+d
+d
+d
+d
